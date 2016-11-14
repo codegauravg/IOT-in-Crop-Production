@@ -1,0 +1,48 @@
+16:33 27-08-2016
+Creating a Test application which will be taking Android Phone Sensor Data on the Bluemix Cloud App and then get response back to Android Phone.
+
+16:34 27-08-2016
+Gathering Resources for the test application.
+1. A Bluemix account.
+2. Download and install the Cloud Foundry command line interface. (https://console.ng.bluemix.net/docs/starters/install_cli.html)(https://github.com/cloudfoundry/cli/releases)
+3. A mobile phone (an Android or iOS device)
+
+16:37 27-08-2016
+Waiting for download of CloudFoundary CLI Setup.
+
+16:38 27-08-2016
+Create an IoT app in Bluemix. Follow Steps on the Link Below.
+(https://www.ibm.com/developerworks/library/iot-mobile-phone-iot-device-bluemix-apps-trs/)
+
+16:46 27-08-2016
+Created a IOT Platform Starter Boilerplate Application named "HotDevice" which will gather temperature sensor data from Android device.
+
+17:05 27-08-2016
+Staging complete for AppName "HotDevice" (http://hotdevice.mybluemix.net/)
+
+17:06 27-08-2016
+Waiting for download of android-studio-bundle-143.310....exe to finish.
+
+17:17 27-08-2016
+Launched the IoT Platform Dashboard and added my Android Device.
+
+Device 24DA9B70EDBA
+Your Device Credentials
+
+Organization ID		4acgx4
+Device Type		Android
+Device ID		24DA9B70EDBA
+Authentication Method	token
+Authentication Token	cq91wv)AjvwYYnF4_y
+
+17:20 27-08-2016
+IoT Starter for Android app will be used to read and send sensor data on your mobile phone.(https://github.com/ibm-watson-iot/iot-starter-for-android)
+Open this app in the android studio and develop according to your need.
+Or Else
+Download a Quick Starter from the link. (https://ibm.box.com/iotstarterapp)
+
+17:27 27-08-2016
+Installed the Android Starter App and Started Sensor Data.
+
+17:28 27-08-2016
+Started installation of Android Studio.
